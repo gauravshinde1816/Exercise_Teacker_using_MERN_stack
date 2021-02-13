@@ -11,4 +11,4 @@
     <li>Bootstrap</li>
 </ul>
 
-![alt text]("Exercise_trcker.gif")
+![alt text](./Exercise_tracker.gif)
